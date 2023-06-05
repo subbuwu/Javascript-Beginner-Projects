@@ -34,6 +34,14 @@ body {
     margin-left: 10px;
 }
 
+.save {
+    margin-top: 10px;
+}
+
+#output-save {
+    font-size: 40px;
+}
+
 h1 {
     font-weight: 400;
     color: darkred;
