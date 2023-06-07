@@ -4,7 +4,10 @@ This repository contains a collection of JavaScript projects that I completed as
 
 ## **Projects Included :**
 ### 1.) [Passenger Count App](https://github.com/subbuwu/Javascript-Beginner-Projects/tree/main/passenger-count-app) : 
-#### This projects built with HTML5,CSS3,JS lets users count the number of people/passengers entering with just a click !
+#### This projects built with HTML5,CSS3 and Vanilla JS, lets users count the number of people/passengers entering with just a click !
+
+### 2.) [Basketball Scorecard](https://github.com/subbuwu/Javascript-Beginner-Projects/tree/main/basketball-scorecard-js) :
+#### This project lets you keep track of the points in a basketball game with adding one to three pointers . Built with HTML5,CSS3 and Vanilla JS.
 <!-- Below is a list of the projects included in this repository:
 
 Project 1 - [Brief description of project 1]
