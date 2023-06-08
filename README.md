@@ -8,7 +8,12 @@ This repository contains a collection of JavaScript projects that I completed as
 
 ### 2.) [Basketball Scorecard](https://github.com/subbuwu/Javascript-Beginner-Projects/tree/main/basketball-scorecard-js) :
 #### This project lets you keep track of the points in a basketball game with adding one to three pointers . Built with HTML5,CSS3 and Vanilla JS. This project is completely responsive and has a good design in mobile view making it easier for user to access.
+
+### 3.) [API - Fetching and Updating DOM](https://github.com/subbuwu/API-Fetch-Update-DOM) :
+### [Site Link](https://subbuwu.github.io/API-Fetch-Update-DOM/)
+#### This sample code snippet explains how an API call and promise works with fetching and updating DOM . Uses fetch() method.
 <!-- Below is a list of the projects included in this repository:
+
 
 Project 1 - [Brief description of project 1]
 Project 2 - [Brief description of project 2]
