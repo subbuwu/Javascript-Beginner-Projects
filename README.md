@@ -10,8 +10,7 @@ This repository contains a collection of JavaScript projects that I completed as
 #### This project lets you keep track of the points in a basketball game with adding one to three pointers . Built with HTML5,CSS3 and Vanilla JS. This project is completely responsive and has a good design in mobile view making it easier for user to access.
 
 ### 3.) [API - Fetching and Updating DOM](https://github.com/subbuwu/API-Fetch-Update-DOM) :
-### [Site Link](https://subbuwu.github.io/API-Fetch-Update-DOM/)
-#### This sample code snippet explains how an API call and promise works with fetching and updating DOM . Uses fetch() method.
+#### This sample code snippet explains how an API call and promise works with fetching and updating DOM .
 <!-- Below is a list of the projects included in this repository:
 
 
