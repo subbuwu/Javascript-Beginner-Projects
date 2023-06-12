@@ -11,6 +11,9 @@ This repository contains a collection of JavaScript projects that I completed as
 
 ### 3.) [API - Fetching and Updating DOM](https://github.com/subbuwu/API-Fetch-Update-DOM) :
 #### This sample code snippet explains how an API call and promise works with fetching and updating DOM .
+
+### 4.) [ShoppingList JS - Filter - Search - Remove](https://github.com/subbuwu/Shopping-List-JS):
+#### This project helps to maintain a shopping list with easy addition and removal also with filtering elements. Uses localStorage.
 <!-- Below is a list of the projects included in this repository:
 
 
