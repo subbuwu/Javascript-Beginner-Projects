@@ -14,14 +14,6 @@ This repository contains a collection of JavaScript projects that I completed as
 
 ### 4.) [ShoppingList JS - Filter - Search - Remove](https://github.com/subbuwu/Shopping-List-JS):
 #### This project helps to maintain a shopping list with easy addition and removal also with filtering elements. Uses localStorage.
-<!-- Below is a list of the projects included in this repository:
-
-
-Project 1 - [Brief description of project 1]
-Project 2 - [Brief description of project 2]
-Project 3 - [Brief description of project 3]
-Project 4 - [Brief description of project 4]
-Project 5 - [Brief description of project 5] -->
 
 
 ## **Getting Started**
