@@ -16,10 +16,6 @@ This repository contains a collection of JavaScript projects that I completed as
 ### 4.) [ShoppingList JS - Filter - Search - Remove](https://github.com/subbuwu/Shopping-List-JS):
 #### This project helps to maintain a shopping list with easy addition and removal also with filtering elements. Uses localStorage.
 
-### 5.) [News API App JS](https://github.com/subbuwu/News-App-API-JS/)
-#### Uses a Free News API and provides results based on that and also has feature of searching a particular news category.
-
-
 ## **Getting Started**
 ### To get started with any of the projects included in this repository, simply clone the repository to your local machine and navigate to the project folder. Each project contains a README file with instructions on how to run the application. Each project is contained within its own folder, which includes all the necessary files to run the application.
 
