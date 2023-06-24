@@ -1,5 +1,5 @@
 # Javascript-Beginner-Projects
-This is a basic repo which contains JS Beginner projects which i've done during my learning time ! Feel free to explore.
+This is a basic repo which contains few JS Beginner projects which i've done during my learning time ! Feel free to explore.
 This repository contains a collection of JavaScript projects that I completed as a beginner. Through these projects, I learned the basics of JavaScript and built practical applications that demonstrate my understanding of key concepts.
 
 ## **Projects Included :**
